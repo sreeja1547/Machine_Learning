@@ -1,0 +1,10 @@
+Model,Balancing,ROC_AUC,PR_AUC,Accuracy,Precision,Recall,F1
+Logistic Regression,No balancing,0.8817,0.7415,0.8687,0.7648,0.5771,0.6578
+Logistic Regression,Class weights,0.882,0.7337,0.7987,0.5258,0.8106,0.6378
+Logistic Regression,SMOTE,0.8818,0.7327,0.7994,0.527,0.8051,0.637
+Random Forest,No balancing,0.9332,0.8864,0.9311,0.9684,0.7081,0.8181
+Random Forest,Class weights,0.9333,0.8855,0.922,0.8718,0.7541,0.8087
+Random Forest,SMOTE,0.9302,0.8807,0.9248,0.9014,0.7365,0.8106
+XGBoost,No balancing,0.9418,0.8964,0.9364,0.9743,0.7282,0.8335
+XGBoost,Class weights,0.9418,0.8964,0.9364,0.9743,0.7282,0.8335
+XGBoost,SMOTE,0.9401,0.8918,0.935,0.9667,0.728,0.8306
