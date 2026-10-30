@@ -2,7 +2,7 @@
 
 A machine-learning-based application that estimates loan default risk from applicant and loan details. The project uses a Streamlit user interface and a FastAPI backend.
 
-> **Important:** This is an educational decision-support prototype, not a real bank approval system. Predictions are estimates and should not be used as the sole basis for lending decisions.
+> 
 
 ## Features
 
